@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/673158/7130352/css/fonts.css" />
+    <meta charset="utf-8" />
+<meta name="title" content="Election Fraud Cases | The Heritage Foundation" />
+<meta property="og:site_name" content="The Heritage Foundation" />
+<meta name="twitter:card" content="summary" />
+<meta property="fb:pages" content="300341323465160" />
+<meta name="twitter:title" content="Election Fraud Cases | The Heritage Foundation" />
+<meta name="twitter:site" content="@heritage" />
+<meta property="og:type" content="article" />
+<meta property="fb:app_id" content="380768468969117" />
+<link rel="image_src" href="https://www.heritage.org//themes/heritage/src/images/bell.png" />
+<meta name="twitter:creator" content="@heritage" />
+<meta property="og:title" content="The Heritage Foundation" />
+<meta name="referrer" content="origin" />
+<meta property="og:description" content="Since our founding in 1973, The Heritage Foundation has been working to advance the principles of free enterprise, limited government, individual freedom, traditional American values, and a strong national defense." />
+<meta name="twitter:image" content="https://www.heritage.org//themes/heritage/src/images/bell_twitter.png" />
+<meta property="og:image" content="https://www.heritage.org//themes/heritage/src/images/bell.png" />
+<meta property="og:locale" content="en_US" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="NOODP,NOYDIR" />
+
+    <title>Election Fraud Cases | The Heritage Foundation</title>
+    <link rel="stylesheet" media="all" href="/modules/contrib/search_autocomplete/css/themes/minimal.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/tooltip.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?q8l34p" />
+<link rel="stylesheet" media="all" href="/themes/heritage/dist/css/main.css?q8l34p" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+    <script src="/themes/heritage/dist/js/vendors.js"></script>
+    <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+    <!-- Optimizely Code -->
+    <script src="https://cdn.optimizely.com/js/7353093442.js"></script>
+    <!-- EOF Optimizely Code -->
+    <!-- Munchkin Code -->
+    <script type="text/javascript">
+    //Initiates Munchkin Code [Global]
+    (function() {
+      var didInit = false;
+      function initMunchkin() {
+        if(didInit === false) {
+          didInit = true;
+          Munchkin.init('824-MHT-304', {'asyncOnly': true});
+        }
+      }
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//munchkin.marketo.net/munchkin.js';
+      s.onreadystatechange = function() {
+        if (this.readyState == 'complete' || this.readyState == 'loaded') {
+          initMunchkin();
+        }
+      };
+      s.onload = initMunchkin;
+      document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+    </script>
+    <!-- EOF Munchkin Code -->
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M69S38');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Chartbeat Code -->
+    <script type="text/javascript">
+    var _sf_async_config =
+    { uid: 2019, domain: "heritage.org" }
+    ;
+    _sf_async_config.sections = "Homepage";
+    _sf_async_config.authors = "";
+    (function () {
+    function loadChartbeat()
+    { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js"); document.body.appendChild(e); }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+    loadChartbeat : function ()
+    { oldonload(); loadChartbeat(); }
+    ;
+    })();
+    </script>
+    <!-- EOF Chartbeat Code -->
+
+    <!-- Facebook Pixel Code -->
+    <script>!function(e,t,n,c,o,a,f){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(f=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,f))}(window,document,"script"),fbq("init","757309131330167"),fbq("track","PageView");</script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=757309131330167&ev=PageView&noscript=1" /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="76x76" href="/themes/heritage/src/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/themes/heritage/src/images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/themes/heritage/src/images/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="mask-icon" href="/themes/heritage/src/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/themes/heritage/src/images/favicon/favicon.ico">
+    <meta name="theme-color" content="#ffffff">
+    <!-- end favicons -->
+
+  </head>
+  <body class="path-voterfraud">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M69S38"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper" class="page__wrapper">
+  <div id="page">
+  <div class="navigation-global__fix-wrapper">
+
+    <div class="navigation__article-bar" aria-hidden="true">
+      <a href="/" class="heritage-icon-heritage_bell" aria-hidden="true" title="Heritage Foundation logo"><span class="visually-hidden">Heritage Foundation</span></a>
+      <a href="#" title="back to top" class="navigation__article-title truncate" role="button"></a>
+      <div class="navigation__article-progress-bar article-progress"><span class="visually-hidden">Back to Top</span></div>
+    </div>
+      <nav class="navigation-global">
+        <div class="search-form-modal">
+          <div class="search-form-content">
+            <div id="search-form" class="search-form__overlay lock-modal">
+                <button title="close modal" class="search__close-modal heritage-icon-chaptering_close _close-modal"></button>
+                <form action="/search" method="GET">
+                  <div class="search-form__input-wrapper">
+                    <input type="text" id="search_overlay_input" class="search-form__input" name="contains" placeholder="Start typing"/>
+                    <button type="submit" class="search-form--input-submit"><span>Submit</span><i class=" heritage-icon-search_desktop"></i></button>
+                  </div>
+                </form>
+                <div class="search-form__results-wrapper">
+                                    <p class="search__frequently">Frequently Searched</p>
+                  <ul id="search_starters">
+                                          <li><a href="/search?contains=Index of Military Strength">Index of Military Strength</a></li>
+                                          <li><a href="/search?contains=Blueprint for Balance">Blueprint for Balance</a></li>
+                                          <li><a href="/search?contains=Index of Economic Freedom">Index of Economic Freedom</a></li>
+                                          <li><a href="/search?contains=Iran and Trump">Iran and Trump</a></li>
+                                          <li><a href="/search?contains=America&#039;s Biggest Issues">America&#039;s Biggest Issues</a></li>
+                                          <li><a href="/search?contains=Tax Reform">Tax Reform</a></li>
+                                      </ul>
+                                                                                                                                                                                              </div>
+                <div class="typeahead-results"></div>
+                <a href="#" class="back-to-close"></a>
+              </div>
+            </div>
+          </div>
+
+          <section class="navigation-global__nav-bar-wrap">
+            <section class="navigation-global__nav-bar-mobile">
+              <a href="/" class="navigation-global__logo-mobile"  title="The Heritage Foundation Home"><i class="heritage-icon-heritage_bell" aria-hidden="true"></i><span>The Heritage Foundation</span>
+              </a>
+              <div class="navigation-global__bleed-wrap-mobile">
+                <div class="navigation-global__ctas-mobile">
+                  <a href="#" class="navigation-global__menu-mobile heritage-icon-hamburger_menu" title="open main navigation" role="button">Open Navigation</a>
+                  <a href="#" class="navigation-global__search-mobile heritage-icon-search_tablet_mobile search-open" title="open search" role="button">Open Search</a>
+                </div>
+              </div>
+            </section>
+            <div class="navigation-global__progress-bar"><span class="navigation-global__progress-bar-indicator article-progress"></span></div>
+          </section>
+
+          <div class="navigation-global__tab-desk">
+
+            <div class="navigation-global__logo-list-wrap">
+              <a href="/" class="navigation-global__logo-link" title="The Heritage Foundation Home">
+                  <span class="heritage-icon-heritage_logo"></span>
+              </a>
+                                                                                            <section class="navigation-global__nav-tier">
+                  <div>
+    <nav role="navigation" aria-labelledby="block-secondarynavigtation-menu" id="block-secondarynavigtation">
+            
+  <h2 class="visually-hidden" id="block-secondarynavigtation-menu">Secondary Navigation</h2>
+  
+
+        
+              <ul class="mainmenu">
+              <li>
+        <a href="/about-heritage/mission" data-drupal-link-system-path="about-heritage/mission">About Heritage</a>
+              </li>
+          <li>
+        <a href="/events" data-drupal-link-system-path="events">Events</a>
+              </li>
+          <li>
+        <a href="https://secured.heritage.org/renew/?utm_source=heritagefoundation&amp;utm_medium=textlink&amp;utm_campaign=donate&amp;utm_content=heritage_org_renew_topnav">Renew</a>
+              </li>
+          <li>
+        <a href="https://secured.heritage.org/?utm_source=heritagefoundation&amp;utm_medium=textlink&amp;utm_campaign=donate&amp;utm_content=heritage_org_donate_topnav">Donate</a>
+              </li>
+          <li>
+        <a href="/press" title="Press" data-drupal-link-system-path="node/457782">Press</a>
+              </li>
+          <li>
+        <a href="/contact" data-drupal-link-system-path="contact">Contact</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </section>
+            </div>
+
+            <section class="navigation-global__issue-cta-wrap">
+              <section class="navigation-global__issue-toggle">
+                                <a href="#" class="navigation-global__issue-toggle-text" title="open issue explorer" role="button">
+                  Explore Issues
+                  <i class="navigation-global__caret heritage-icon-explore_issues_tablet_mobile"></i>
+                </a>
+                              </section>
+              <a  href="#" class="navigation-global__issue-search heritage-icon-search_desktop search-open" title="open search" role="button">open search</a>
+            </section>
+
+            <section class="navigation-global__issue-expanded">
+              <div class="navigation-global__issue-expanded-wrap">
+
+                <section class="navigation-global__tier-issue-wrap">
+
+                  <a href="#" class="navigation-global__close-icon heritage-icon-chaptering_close" title="close navigation" role="button"></a>
+                                      <div class="navigation-global__top-issues">
+                      <p class="navigation-global__top-issues-text">Top Issues</p>
+                      <section class="navigation-global__issue-list-wrap">
+                        <ul class="navigation-global__issue-list1">
+                                                      <li><a href="/asia">Asia</a></li>
+                                                      <li><a href="/election-integrity">Election Integrity</a></li>
+                                                      <li><a href="/immigration">Immigration</a></li>
+                                                      <li><a href="/public-health">Public Health</a></li>
+                                                      <li><a href="/progressivism">Progressivism</a></li>
+                                                  </ul>
+                      </section>
+                    </div>
+                                    <div class="navigation-global__tier-mobile">
+                      <div>
+    <nav role="navigation" aria-labelledby="block-secondarynavigtation-menu" id="block-secondarynavigtation">
+            
+  <h2 class="visually-hidden" id="block-secondarynavigtation-menu">Secondary Navigation</h2>
+  
+
+        
+              <ul class="mainmenu">
+              <li>
+        <a href="/about-heritage/mission" data-drupal-link-system-path="about-heritage/mission">About Heritage</a>
+              </li>
+          <li>
+        <a href="/events" data-drupal-link-system-path="events">Events</a>
+              </li>
+          <li>
+        <a href="https://secured.heritage.org/renew/?utm_source=heritagefoundation&amp;utm_medium=textlink&amp;utm_campaign=donate&amp;utm_content=heritage_org_renew_topnav">Renew</a>
+              </li>
+          <li>
+        <a href="https://secured.heritage.org/?utm_source=heritagefoundation&amp;utm_medium=textlink&amp;utm_campaign=donate&amp;utm_content=heritage_org_donate_topnav">Donate</a>
+              </li>
+          <li>
+        <a href="/press" title="Press" data-drupal-link-system-path="node/457782">Press</a>
+              </li>
+          <li>
+        <a href="/contact" data-drupal-link-system-path="contact">Contact</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                  </div>
+
+                </section>
+
+                <section class="navigation-global__issue-category-wrap">
+                    <div>
+    <div class="views-element-container" id="block-views-block-explore-issues-grid">
+  
+    
+      <div><div class="view view-explore-issues view-id-explore_issues view-display-id-grid js-view-dom-id-72fb2beaa310ba33b3df14c9a3755699f72cba125c5e5c1fdf31c7469aee51d9">
+  
+    
+      
+      <div class="view-content">
+      <section class="navigation-global__issue-category">
+  <p>Domestic Policy</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/agriculture" hreflang="en">Agriculture</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/education" hreflang="en">Education</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/government-regulation" hreflang="en">Government Regulation</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/housing" hreflang="en">Housing</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>Political Thought</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/american-founders" hreflang="en">American Founders</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/conservatism" hreflang="en">Conservatism</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/progressivism" hreflang="en">Progressivism</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/public-opinion" hreflang="en">Public Opinion</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>International</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/asia" hreflang="en">Asia</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/europe" hreflang="en">Europe</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/global-politics" hreflang="en">Global Politics</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/middle-east" hreflang="en">Middle East</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>Government Spending</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/budget-and-spending" hreflang="en">Budget and Spending</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/debt" hreflang="en">Debt</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/social-security" hreflang="en">Social Security</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>Energy &amp; Environment</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/coal-oil-natural-gas" hreflang="en">Coal, Oil, Natural Gas</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/energy-economics" hreflang="en">Energy Economics</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/nuclear-energy" hreflang="en">Nuclear Energy</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/renewable-energy" hreflang="en">Renewable Energy</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>Legal and Judicial</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/courts" hreflang="en">Courts</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/crime-and-justice" hreflang="en">Crime and Justice</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/election-integrity" hreflang="en">Election Integrity</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/the-constitution" hreflang="en">The Constitution</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>Infrastructure &amp; Technology</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/cybersecurity" hreflang="en">Cybersecurity</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/space-policy" hreflang="en">Space Policy</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/technology" hreflang="en">Technology</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/transportation" hreflang="en">Transportation</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>National Security</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/defense" hreflang="en">Defense</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/homeland-security" hreflang="en">Homeland Security</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/immigration" hreflang="en">Immigration</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/terrorism" hreflang="en">Terrorism</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>Culture</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/gender" hreflang="en">Gender</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/life" hreflang="en">Life</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/marriage-and-family" hreflang="en">Marriage and Family</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/religious-liberty" hreflang="en">Religious Liberty</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>Health Care</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/health-care-reform" hreflang="en">Health Care Reform</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/medicaid" hreflang="en">Medicaid</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/medicare" hreflang="en">Medicare</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/public-health" hreflang="en">Public Health</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>Poverty &amp; Welfare</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/hunger-and-food-programs" hreflang="en">Hunger and Food Programs</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/poverty-and-inequality" hreflang="en">Poverty and Inequality</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/welfare" hreflang="en">Welfare</a></span></div></li>
+      </ul>
+</section>
+
+<section class="navigation-global__issue-category">
+  <p>Economy</p>
+  <ul class="navigation-global__issue-category-list">
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/international-economies" hreflang="en">International Economies</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/markets-and-finance" hreflang="en">Markets and Finance</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/taxes" hreflang="en">Taxes</a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/trade" hreflang="en">Trade</a></span></div></li>
+      </ul>
+</section>
+
+
+    </div>
+  
+          </div></div>
+
+  </div>
+
+  </div>
+
+                </section> <!-- Issue-Category-wrap -->
+
+              </div> <!-- Issue-Expanded-wrap -->
+            </section> <!-- Issue-Expanded -->
+          </div> <!-- Tab-desk -->
+      </nav>
+    </div>
+
+    <header id="header" class="header" role="banner" aria-label="Site header">
+    </header>
+        
+    <div id="main-wrapper" class="layout-main-wrapper layout-container clearfix">
+      <div id="main" class="layout-main clearfix">
+        
+        <main id="content" class="column main-content" role="main">
+          <section class="section content-wrapper">
+            <a id="main-content" tabindex="-1" aria-label="main content"></a>
+              <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-heritage-theme-page-title">
+  
+    
+      
+  <h1>Election Fraud Cases</h1>
+
+
+  </div>
+<div id="block-mainpagecontent">
+  
+    
+      <div class="views-element-container"><div class="view view-voter-fraud-information view-id-voter_fraud_information view-display-id-voter_fraud_cases_page js-view-dom-id-e115d1add3a6856b6364c9c6638ae5ba66c2457d29e9ce23689ef240aec2680f">
+  <div class="table-wrapper">
+    
+        
+
+    <div class="view-header">
+      
+
+      <a href="/voterfraud#choose-a-state" class="change-state">Change State</a>
+
+      <a href="/voterfraud-print/search?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=56" class="heritage-icon-print article__social-icon" target="_blank" title="Print"></a>
+
+      <div class="article__social-container __social-container">
+  <a href="https://twitter.com/intent/tweet?text=Election%20Fraud%20Cases&url=https%3A%2F%2Fwww.heritage.org%2Fvoterfraud%2Fsearch%3Fcase_type%3DAll%26combine%3D%26fraud_type%3DAll%26page%3D56%26state%3DAll%26year%3D&via=Heritage " class="heritage-icon-social_twitter article__social-icon" title="Share this article on Twitter" aria-label="Share this article on Twitter"></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.heritage.org%2Fvoterfraud%2Fsearch%3Fcase_type%3DAll%26combine%3D%26fraud_type%3DAll%26page%3D56%26state%3DAll%26year%3D" class="heritage-icon-social_facebook article__social-icon" title="Share this article on Facebook" aria-label="Share this article on Facebook"></a>
+  <a href="#" class="heritage-icon-copy_link article__social-icon" title="Copy a link to this article" aria-label="Copy a link to this article">
+  	<i class="copy-icon__confirmation">
+  		<span class="heritage-icon-check_sign_up article__social-icon"></span>
+  		<span class="copy-icon__copied">Copied</span>
+  	</i>
+  </a>
+  </div>
+
+
+    </div>
+
+          <div class="view-filters">
+
+        <div class="voter-fraud__filters-mobile-toggle" data-ix="filtersmobiletoggle"><div>Refining Filters <span class="filters-mobile-toggle__i">+</span></div></div>
+
+        <form class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-voter-fraud-information-voter-fraud-cases-page" action="/voterfraud/search" method="get" id="views-exposed-form-voter-fraud-information-voter-fraud-cases-page" accept-charset="UTF-8">
+    <div class="js-form-item form-item js-form-type-textfield form-item-combine js-form-item-combine form-no-label">
+        <input placeholder="Search" data-drupal-selector="edit-combine" type="text" id="edit-combine" name="combine" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-select form-item-state js-form-item-state">
+        <label for="edit-state">Refine by State</label>
+        <select data-drupal-selector="edit-state" id="edit-state" name="state" class="form-select"><option value="All" selected="selected">- Any -</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="DC">District of Columbia</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="PR">Puerto Rico</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-select form-item-year js-form-item-year">
+        <label for="edit-year">Refine by Disposition Year</label>
+        <select data-drupal-selector="edit-year" id="edit-year" name="year" class="form-select"><option value="" selected="selected">- Any -</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-select form-item-case-type js-form-item-case-type">
+        <label for="edit-case-type">Refine by Type of case</label>
+        <select data-drupal-selector="edit-case-type" id="edit-case-type" name="case_type" class="form-select"><option value="All" selected="selected">- Any -</option><option value="24509">Civil Penalty</option><option value="24487">Criminal Conviction</option><option value="24519">Diversion Program</option><option value="24495">Judicial Finding</option><option value="24517">Official Finding</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-select form-item-fraud-type js-form-item-fraud-type">
+        <label for="edit-fraud-type">Refine by Type of fraud</label>
+        <select data-drupal-selector="edit-fraud-type" id="edit-fraud-type" name="fraud_type" class="form-select"><option value="All" selected="selected">- Any -</option><option value="24511">Altering The Vote Count</option><option value="24501">Ballot Petition Fraud</option><option value="24499">Buying Votes</option><option value="24503">Duplicate Voting</option><option value="24497">Election Overturned</option><option value="24505">False Registrations</option><option value="24489">Fraudulent Use Of Absentee Ballots</option><option value="24521">Illegal &quot;Assistance&quot; At The Polls</option><option value="24493">Impersonation Fraud At The Polls</option><option value="24491">Ineligible Voting</option><option value="24513">Miscellaneous</option></select>
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-voter-fraud-information" type="submit" id="edit-submit-voter-fraud-information" value="Submit" class="button js-form-submit form-submit" />
+</div>
+
+
+</form>
+
+        <a href="#key"><span>See Keys & Definitions</span><i class="heritage-icon-calendar_right"></i></a>
+      </div>
+        
+          <div class="view-content">
+        
+
+
+<div class="views-row header">
+  <span class="views-field views-field-field-fraud-state-administrative-area">
+    <span class="views-label views-label-field-fraud-state-administrative-area">State</span>
+  </span>
+  <span class="views-field views-field-field-year-of-disposition">
+    <span class="views-label views-label-field-year-of-disposition">Year</span>
+  </span>
+
+  <span class="views-field views-field-name">
+    <span class="views-label views-label-name">Name</span>
+  </span>
+
+  <span class="views-field views-field-field-case-type">
+    <span class="views-label views-label-field-case-type">Case Type</span>
+  </span>
+
+  <span class="views-field views-field-field-fraud-type">
+    <span class="views-label views-label-field-fraud-type">Fraud Type</span>
+  </span>
+
+  <span class="views-field views-field-field-outcome-of-case header">
+    <span class="views-label views-label-field-outcome-of-case header">Details</span>
+  </span>
+</div>
+
+
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Pennsylvania</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Dolores Shaw</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Diversion Program</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Miscellaneous</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Dolores Shaw, the Judge of Election at Philadelphia Poll 43-7, and three other election-board members were indicted after allegations of fraud in Philadelphia&#039;s 43rd Ward surfaced after the 2017 special election for the statehouse seat for the 197th District. The cabal were accused of, among other things, intimidating voters who did not want to vote for the Democratic candidate. In court, witnesses testified that they were not able to cast ballots for the candidates of their choice. Shaw received an accelerated rehabilitative disposition for compromising the local election board.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Dolores Shaw
+    </p>
+    <p class="outcomes">
+      Dolores Shaw, the Judge of Election at Philadelphia Poll 43-7, and three other election-board members were indicted after allegations of fraud in Philadelphia's 43rd Ward surfaced after the 2017 special election for the statehouse seat for the 197th District. The cabal were accused of, among other things, intimidating voters who did not want to vote for the Democratic candidate. In court, witnesses testified that they were not able to cast ballots for the candidates of their choice. Shaw received an accelerated rehabilitative disposition for compromising the local election board.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2zbCtUp,              bit.ly/2zc7I1A,              cbsloc.al/2zfYBNh          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Texas</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Miguel Hernandez</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Fraudulent Use Of Absentee Ballots</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Miguel Hernandez visited an elderly woman shortly before the 2017 Dallas City Council election, collected her blank absentee ballot, filled it out, and forged her signature before mailing it back. Hernandez was the first person arrested as part of a larger voter fraud investigation in the Dallas area, stemming from claims by elderly voters that someone was forging their signatures and the return of nearly 700 mail-in ballots all signed by the same witness using a fake name. Hernandez faced a felony illegal voting charge, but pleaded to a lesser misdemeanor offense of &quot;method of returning marked ballot.&quot; He was sentenced to 180 days in jail and given credit for time served.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Miguel Hernandez
+    </p>
+    <p class="outcomes">
+      Miguel Hernandez visited an elderly woman shortly before the 2017 Dallas City Council election, collected her blank absentee ballot, filled it out, and forged her signature before mailing it back. Hernandez was the first person arrested as part of a larger voter fraud investigation in the Dallas area, stemming from claims by elderly voters that someone was forging their signatures and the return of nearly 700 mail-in ballots all signed by the same witness using a fake name. Hernandez faced a felony illegal voting charge, but pleaded to a lesser misdemeanor offense of "method of returning marked ballot." He was sentenced to 180 days in jail and given credit for time served.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2zaemWj,              bit.ly/2zg2yl5          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Texas</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Russ Casey</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ballot Petition Fraud</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Russ Casey, a Texas Justice of the Peace, submitted false signatures in order to ensure his place on the Republican primary ballot during his 2018 reelection campaign. Casey withdrew and resigned following the revelation that he had falsified multiple petition signatures and falsely attested to having witnessed the signatures. Casey pleaded guilty to a charge of tampering with a government record, and received a suspended two-year prison sentence and five years of probation.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Russ Casey
+    </p>
+    <p class="outcomes">
+      Russ Casey, a Texas Justice of the Peace, submitted false signatures in order to ensure his place on the Republican primary ballot during his 2018 reelection campaign. Casey withdrew and resigned following the revelation that he had falsified multiple petition signatures and falsely attested to having witnessed the signatures. Casey pleaded guilty to a charge of tampering with a government record, and received a suspended two-year prison sentence and five years of probation.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2zcdz74          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Texas</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Rosita Flores</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Illegal &quot;Assistance&quot; At The Polls</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Rosita Flores, of Robstown, illegally obtained an elderly voter&#039;s mail-ballot, filled it out, and cast the ballot without the permission of the voter. Flores pleaded guilty and received a suspended one-year jail sentence, 18 months of probation, and was ordered to pay a $1,000 fine and $316 in court costs. She was also ordered to complete 60 hours of community service and spend 10 consecutive Saturdays in the San Patricio County Jail.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Rosita Flores
+    </p>
+    <p class="outcomes">
+      Rosita Flores, of Robstown, illegally obtained an elderly voter's mail-ballot, filled it out, and cast the ballot without the permission of the voter. Flores pleaded guilty and received a suspended one-year jail sentence, 18 months of probation, and was ordered to pay a $1,000 fine and $316 in court costs. She was also ordered to complete 60 hours of community service and spend 10 consecutive Saturdays in the San Patricio County Jail.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2zcAEGS          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Virginia</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Cassandra Amber Marie Ritter</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Cassandra Ritter, a felon convicted on heroin distribution charges, cast a ballot despite being an ineligible voter due to her prior conviction. Ritter pleaded guilty and received a suspended two-year prison sentence and two years of supervised probation.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Cassandra Amber Marie Ritter
+    </p>
+    <p class="outcomes">
+      Cassandra Ritter, a felon convicted on heroin distribution charges, cast a ballot despite being an ineligible voter due to her prior conviction. Ritter pleaded guilty and received a suspended two-year prison sentence and two years of supervised probation.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2zcXldZ          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">West Virginia</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Jeffrey Hartman</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">False Registrations</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Jeffrey Hartman, a resident of Westminster, Maryland, illegally registered to vote in both Maryland and Morgan County, West Virginia, and cast ballots in both states nine times since 2006. Hartman pleaded guilty in West Virginia to illegal voting and was given a suspended 30-day jail sentence, was put on probation for one year, and ordered to pay a $100 fine and court costs.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Jeffrey Hartman
+    </p>
+    <p class="outcomes">
+      Jeffrey Hartman, a resident of Westminster, Maryland, illegally registered to vote in both Maryland and Morgan County, West Virginia, and cast ballots in both states nine times since 2006. Hartman pleaded guilty in West Virginia to illegal voting and was given a suspended 30-day jail sentence, was put on probation for one year, and ordered to pay a $100 fine and court costs.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2Suajgq,              bit.ly/2SrvvU9          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">West Virginia</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2017</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Carson Lee Tuttle</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Duplicate Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Carson Lee Tuttle voted by absentee ballot in Cabell County, West Virginia, and in person in Franklin County, Ohio, in the 2016 general election. Tuttle&#039;s duplicate voting was detected during a crosscheck of voting records by the Ohio Secretary of State. Tuttle admitted to an investigator that he had voted twice and pleaded guilty to a misdemeanor illegal voting charge. He was fined $100 and ordered to pay $160.25 in court costs.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Carson Lee Tuttle
+    </p>
+    <p class="outcomes">
+      Carson Lee Tuttle voted by absentee ballot in Cabell County, West Virginia, and in person in Franklin County, Ohio, in the 2016 general election. Tuttle's duplicate voting was detected during a crosscheck of voting records by the Ohio Secretary of State. Tuttle admitted to an investigator that he had voted twice and pleaded guilty to a misdemeanor illegal voting charge. He was fined $100 and ordered to pay $160.25 in court costs.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              http://thf-legal.s3.amazonaws.com/Carson%20Tuttle%20Voter%20Fraud%20Conviction.pdf          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">California</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2017</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Ashley Drain Hampton</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">False Registrations</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Ashley Drain Hampton falsified her address in order to appear on the ballot for the Manteca Unified school board elections in 2014. Hampton won her race, but resigned several months after charges were filed. In April 2017, a jury found Hampton guilty of charges that included not only multiple counts of election fraud, but also charges of perjury and defrauding the government in an effort to get more public assistance money than she was entitled to receive. In September of 2018, a judge sentenced Hampton to 15 months in jail, five years of probation, and ordered her to complete 200 hours of community service.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Ashley Drain Hampton
+    </p>
+    <p class="outcomes">
+      Ashley Drain Hampton falsified her address in order to appear on the ballot for the Manteca Unified school board elections in 2014. Hampton won her race, but resigned several months after charges were filed. In April 2017, a jury found Hampton guilty of charges that included not only multiple counts of election fraud, but also charges of perjury and defrauding the government in an effort to get more public assistance money than she was entitled to receive. In September of 2018, a judge sentenced Hampton to 15 months in jail, five years of probation, and ordered her to complete 200 hours of community service.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2zhk3lc,              bit.ly/2zlifrv,              bit.ly/2zmgVof          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Connecticut</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Troy Stevenson</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Fraudulent Use Of Absentee Ballots</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Troy Stevenson was convicted of making a false statement on an absentee ballot as well as second degree forgery, both class D felonies. He committed this crime on October 28, 2017, in connection with the November 2017 mayoral election in Stafford. Stevenson was given a three year suspended sentence.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Troy Stevenson
+    </p>
+    <p class="outcomes">
+      Troy Stevenson was convicted of making a false statement on an absentee ballot as well as second degree forgery, both class D felonies. He committed this crime on October 28, 2017, in connection with the November 2017 mayoral election in Stafford. Stevenson was given a three year suspended sentence.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2EXrYKs,              bit.ly/2CWpFF5          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Connecticut</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Betty Chappell</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Fraudulent Use Of Absentee Ballots</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Betty Chappell was convicted of making a false statement on an absentee ballot as well as second degree forgery, both class D felonies. She committed this crime on October 28, 2017, in connection with the November 2017 mayoral election in Stafford. Chappell received a five year suspended sentence.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Betty Chappell
+    </p>
+    <p class="outcomes">
+      Betty Chappell was convicted of making a false statement on an absentee ballot as well as second degree forgery, both class D felonies. She committed this crime on October 28, 2017, in connection with the November 2017 mayoral election in Stafford. Chappell received a five year suspended sentence.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2EXrYKs,              bit.ly/2CWpFF5          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Illinois</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Janet Pokryfke</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Duplicate Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Janet Pokryfke voted twice in the November 2016 election. She entered an Alford. Per her plea agreement, she was convicted of one misdemeanor count of disregarding the election code while two felony double voting charges and one perjury charge were dropped. Pokryfke was sentenced to six months of probation, and was ordered to complete 20 hours of community service and pay a $200 fine.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Janet Pokryfke
+    </p>
+    <p class="outcomes">
+      Janet Pokryfke voted twice in the November 2016 election. She entered an Alford. Per her plea agreement, she was convicted of one misdemeanor count of disregarding the election code while two felony double voting charges and one perjury charge were dropped. Pokryfke was sentenced to six months of probation, and was ordered to complete 20 hours of community service and pay a $200 fine.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2zlhPkP          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">North Carolina</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Roberto Hernandez-Cuarenta</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Roberto Hernandez-Cuarenta voted in both the 2012 and 2016 presidential elections despite not being a citizen. Hernandez-Cuarenta, a Mexican citizen, was granted a Special Agricultural Worker application in 1992 and had since acquired permanent resident status. He was convicted on two charges of voting by an alien, and was sentenced to time served, which amounted to four months of incarceration.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Roberto Hernandez-Cuarenta
+    </p>
+    <p class="outcomes">
+      Roberto Hernandez-Cuarenta voted in both the 2012 and 2016 presidential elections despite not being a citizen. Hernandez-Cuarenta, a Mexican citizen, was granted a Special Agricultural Worker application in 1992 and had since acquired permanent resident status. He was convicted on two charges of voting by an alien, and was sentenced to time served, which amounted to four months of incarceration.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2znNodA,              bit.ly/2zmJVvZ          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">North Dakota</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Hannan Yassin Aboubaker</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Duplicate Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Hannan Yassin Aboubaker submitted an absentee ballot in Minnesota&#039;s Scott County for the 2016 election. She then voted at the Fargo Public Library in North Dakota &quot;since she believed her absentee ballot for Minnesota was null and void.&quot; Aboubaker pleaded guilty to voting twice by entering an Alford plea to a Class A misdemeanor election offense. Her sentence was deferred, and she was placed on unsupervised probation for six months, after which the case will be dismissed if she does not violate the term of her probation.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Hannan Yassin Aboubaker
+    </p>
+    <p class="outcomes">
+      Hannan Yassin Aboubaker submitted an absentee ballot in Minnesota's Scott County for the 2016 election. She then voted at the Fargo Public Library in North Dakota "since she believed her absentee ballot for Minnesota was null and void." Aboubaker pleaded guilty to voting twice by entering an Alford plea to a Class A misdemeanor election offense. Her sentence was deferred, and she was placed on unsupervised probation for six months, after which the case will be dismissed if she does not violate the term of her probation.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2zcskqt,              bit.ly/2DiNXKi          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Texas</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Kleberg County, TX</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Judicial Finding</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Election Overturned</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>A closely contested run-off election for a Justice of Peace seat was overturned by Visiting District Court Judge Joel Johnson, following a two-day hearing. A challenge to the election was filed by Ofelia &quot;Ofie&quot; Gutierrez, the candidate running against long time seatholder, Esequiel &quot;Cheque&quot; De La Paz, for the Justice of the Peace seat in Kleberg County. After a recount narrowed the vote differential to just six votes (312 to 318), seven of the sixteen votes contested by Guiterrez were thrown out by Judge Johnson, because they were cast by relatives of De La Paz who lived outside the Precinct 4 boundaries. A new election was ordered to be held before the end of August.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Kleberg County, TX
+    </p>
+    <p class="outcomes">
+      A closely contested run-off election for a Justice of Peace seat was overturned by Visiting District Court Judge Joel Johnson, following a two-day hearing. A challenge to the election was filed by Ofelia "Ofie" Gutierrez, the candidate running against long time seatholder, Esequiel "Cheque" De La Paz, for the Justice of the Peace seat in Kleberg County. After a recount narrowed the vote differential to just six votes (312 to 318), seven of the sixteen votes contested by Guiterrez were thrown out by Judge Johnson, because they were cast by relatives of De La Paz who lived outside the Precinct 4 boundaries. A new election was ordered to be held before the end of August.
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2zgdbEz,              bit.ly/2P4S96y          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Texas</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Kaufman County, TX</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Judicial Finding</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Election Overturned</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>In a Republican primary for a seat on the Kaufman County Court, Dennis Jones appeared to beat his challenger Tracy Gray by one vote. Gray challenged the results, claiming that a &quot;vote harvester&quot; had submitted a number of illegal mail-in ballots and that numerous eligible provisional ballots were uncounted. A district judge agreed, invalidating the election results and ordering a new election. The special election was held on July 21 and Tracy Gray prevailed, winning by 404 votes.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Kaufman County, TX
+    </p>
+    <p class="outcomes">
+      In a Republican primary for a seat on the Kaufman County Court, Dennis Jones appeared to beat his challenger Tracy Gray by one vote. Gray challenged the results, claiming that a "vote harvester" had submitted a number of illegal mail-in ballots and that numerous eligible provisional ballots were uncounted. A district judge agreed, invalidating the election results and ordering a new election. The special election was held on July 21 and Tracy Gray prevailed, winning by 404 votes. 
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2Dg3wCt,              bit.ly/2Dg2Xsl,              bit.ly/2Dg1yC5          </p>
+  </div>
+
+      </div>
+    
+            <nav class="pager" role="navigation" aria-labelledby="pagination-heading">
+    <h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
+    <ul class="pager__items js-pager__items">
+                    <li class="pager__item pager__item--first">
+          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=0" title="Go to first page">
+            <span class="visually-hidden">First page</span>
+            <span aria-hidden="true">First</span>
+          </a>
+        </li>
+                          <li class="pager__item pager__item--previous">
+          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=55" title="Go to previous page" rel="prev">
+            <span class="visually-hidden">Previous page</span>
+            <span aria-hidden="true">Previous</span>
+          </a>
+        </li>
+                          <li class="pager__item pager__item--ellipsis" role="presentation">&hellip;</li>
+                          <li class="pager__item">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=52" title="Go to page 53">
+            <span class="visually-hidden">
+              Page
+            </span>53</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=53" title="Go to page 54">
+            <span class="visually-hidden">
+              Page
+            </span>54</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=54" title="Go to page 55">
+            <span class="visually-hidden">
+              Page
+            </span>55</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=55" title="Go to page 56">
+            <span class="visually-hidden">
+              Page
+            </span>56</a>
+        </li>
+              <li class="pager__item is-active">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=56" title="Current page">
+            <span class="visually-hidden">
+              Current page
+            </span>57</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=57" title="Go to page 58">
+            <span class="visually-hidden">
+              Page
+            </span>58</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=58" title="Go to page 59">
+            <span class="visually-hidden">
+              Page
+            </span>59</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=59" title="Go to page 60">
+            <span class="visually-hidden">
+              Page
+            </span>60</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=60" title="Go to page 61">
+            <span class="visually-hidden">
+              Page
+            </span>61</a>
+        </li>
+                          <li class="pager__item pager__item--ellipsis" role="presentation">&hellip;</li>
+                          <li class="pager__item pager__item--next">
+          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=57" title="Go to next page" rel="next">
+            <span class="visually-hidden">Next page</span>
+            <span aria-hidden="true">Next</span>
+          </a>
+        </li>
+                          <li class="pager__item pager__item--last">
+          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=62" title="Go to last page">
+            <span class="visually-hidden">Last page</span>
+            <span aria-hidden="true">Last</span>
+          </a>
+        </li>
+          </ul>
+  </nav>
+
+              </div>
+      <div class="view-footer-wrapper">
+      <div class="view-footer" id="key">
+        <h3>Key &amp; Definitions</h3><h4>Types of Cases</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_1 js-view-dom-id-639c12a19597c5e9c5476d0cb67fc6ddc3c7b8f5e5336d31752e274868d64ee3">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Criminal Conviction</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Any case that results in a defendant entering a plea of guilty or no contest, or being found guilty in court of election-related offenses.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Judicial Finding</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>A finding by a court of law that fraud occurred in an election, including judicial orders overturning election results or ordering a new election due to fraud.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Civil Penalty</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Any civil case resulting in fines or other penalties imposed for a violation of election laws.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Official Finding</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>A finding by a government body that fraud occurred in an election, including orders overturning election results or ordering a new election due to fraud.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Diversion Program</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Any criminal case in which a judge directs a defendant into a pre-trial diversion program, or stays or defers adjudication with the understanding that the conviction will be cleared upon completion of the program.</p>
+</span></div></div>
+
+    </div>
+  
+          </div><h4>Types of Voter Fraud</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_2 js-view-dom-id-1c945f1cc842995c489d8c6562628667ca6ee8098668febb0865f0c20da0b4d1">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Fraudulent Use Of Absentee Ballots</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Requesting absentee ballots and voting without the knowledge of the actual voter; or obtaining the absentee ballot from a voter and either filling it in directly and forging the voter’s signature or illegally telling the voter who to vote for.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Ineligible Voting</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Illegal registration and voting by individuals who are not U.S. citizens, are convicted felons, or are otherwise not eligible to vote.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Impersonation Fraud At The Polls</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Voting in the name of other legitimate voters and voters who have died, moved away, or lost their right to vote because they are felons, but remain registered.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Buying Votes</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Paying voters to cast either an in-person or absentee ballot for a particular candidate.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Ballot Petition Fraud</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Forging the signatures of registered voters on the ballot petitions that must be filed with election officials in some states for a candidate or issue to be listed on the official ballot</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Duplicate Voting</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Registering in multiple locations and voting in the same election in more than one jurisdiction or state.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">False Registrations</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Voting under fraudulent voter registrations that either use a phony name and a real or fake address or claim residence in a particular jurisdiction where the registered voter does not actually live and is not entitled to vote.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Altering The Vote Count</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Changing the actual vote count either in a precinct or at the central location where votes are counted.</p>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-name"><span class="field-content">Illegal &quot;Assistance&quot; At The Polls</span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Forcing or intimidating voters—particularly the elderly, disabled, illiterate, and those for whom English is a second language—to vote for particular candidates while supposedly providing them with “assistance.”</p>
+</span></div></div>
+
+    </div>
+  
+          </div>
+      </div>
+    </div>
+    </div>
+</div>
+
+  </div>
+
+  </div>
+
+            
+          </section>
+        </main>
+                      </div>
+    </div>
+    
+    <section class="global-footer">
+      <div class="global-footer__wrapper">
+        <div class="global-footer__content">
+          <a href="/" title="Heritage home page" class="heritage-icon-heritage_bell global-footer__heritage-bell-icon">
+          </a>
+                    <div class="global-footer__links-wrapper" id="footer-links">
+              <div>
+    <nav role="navigation" aria-labelledby="block-secondarynavigation-menu" id="block-secondarynavigation">
+            
+  <h2 class="visually-hidden" id="block-secondarynavigation-menu">Secondary Navigation</h2>
+  
+
+        
+              <ul class="mainmenu">
+              <li>
+        <a href="/about-heritage/mission" data-drupal-link-system-path="about-heritage/mission">About Heritage</a>
+              </li>
+          <li>
+        <a href="/events" data-drupal-link-system-path="events">Events</a>
+              </li>
+          <li>
+        <a href="https://secured.heritage.org/renew/?utm_source=heritagefoundation&amp;utm_medium=textlink&amp;utm_campaign=donate&amp;utm_content=heritage_org_renew_topnav">Renew</a>
+              </li>
+          <li>
+        <a href="https://secured.heritage.org/?utm_source=heritagefoundation&amp;utm_medium=textlink&amp;utm_campaign=donate&amp;utm_content=heritage_org_donate_topnav">Donate</a>
+              </li>
+          <li>
+        <a href="/press" title="Press" data-drupal-link-system-path="node/457782">Press</a>
+              </li>
+          <li>
+        <a href="/contact" data-drupal-link-system-path="contact">Contact</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          </div>
+          <div class="global-footer__subscribe-wrapper">
+            <p class="global-footer__subscribe-title">Subscribe to email updates</p>
+            <div class="global-footer__email-input-container" aria-live="assertive">
+              <!-- <label for="email-address" class="visually-hidden">Enter email address</label>
+              <input class="global-footer__subscribe-email-input" placeholder="Enter email address" id="email-address" />
+              <button class="global-footer__subscribe-btn">Subscribe</button> -->
+              <script src="//app-ab04.marketo.com/js/forms2/js/forms2.min.js"></script><form id="mktoForm_2024"></form>
+              <script>
+                MktoForms2.loadForm("//app-ab04.marketo.com", "824-MHT-304", 2024, function(form) {
+                  form.onSuccess(function(values, followUpUrl) {
+                      // Get the form's jQuery element and hide it
+                      form.getFormElem().hide();
+                      // Return false to prevent the submission handler from taking the lead to the follow up url
+                      jQuery('.global-footer__thank-you').addClass('_active');
+                      return false;
+                  });
+
+                });
+              </script>
+              <div class="global-footer__thank-you">
+                <p class="global-footer__thank-you-subtitle">Thank you for signing up.</p>
+              </div>
+            </div>
+          </div>
+          <div class="global-footer__bottom-bar">
+            <div class="global-footer__social-follow-container">
+              <p class="global-footer__follow-us">Follow us</p>
+              <a href="https://twitter.com/heritage" title="Heritage Twitter" class="heritage-icon-social_twitter global-footer__twitter-circle" target="_blank" data-text="Heritage Twitter"><!-- <span class="heritage-icon-social_twitter global-footer__twitter-circle"></span> --></a>
+              <a href="https://www.facebook.com/heritagefoundation" title="Heritage Facebook" class="heritage-icon-social_facebook global-footer__facebook-circle" target="_blank" data-text='Heritage Facebook'><!-- <span class="heritage-icon-social_facebook global-footer__facebook-circle"></span> --></a>
+            </div>
+            <div class="global-footer__privacy-copyright">
+              <span><a href="https://www.heritage.org/article/privacy-policy" class="global-footer__privacy-copyright-link" title="Heritage privacy policy">Privacy Policy</a></span>
+              <span><a href="https://www.heritage.org/article/copyright-notice" class="global-footer__privacy-copyright-link" title="Heritage copyright">Copyright</a></span>
+              <p class="global-footer__privacy-copyright-link global-footer__copyright-link">
+                &#169; 2020, The Heritage Foundation
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"voterfraud\/search","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"case_type":"All","combine":"","fraud_type":"All","page":"56","state":"All","year":""}},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"better_exposed_filters\/general,core\/drupal.autocomplete,core\/html5shiv,heritage_theme\/global,heritage_voter_fraud_report\/voter_fraud_search,search_autocomplete\/theme.minimal.css,system\/base,views\/views.module","theme":"heritage_theme","theme_token":null},"ajaxTrustedUrl":{"\/voterfraud\/search":true},"search_autocomplete":{"search_landing_page":{"source":"https:\/\/www.heritage.org\/callback\/nodes","selector":"input#edit-contains","minChars":3,"maxSuggestions":10,"autoSubmit":true,"autoRedirect":true,"theme":"minimal","filters":["title"],"noResult":{"group":{"group_id":"no_results"},"label":"No results found for [search-phrase]. Click to perform full search.","value":"[search-phrase]"},"moreResults":{"group":{"group_id":"more_results"},"label":"View all results for [search-phrase].","value":"[search-phrase]"}}},"user":{"uid":0,"permissionsHash":"e470532ebc8b9e370723ada3fe0de71972b88aa74ab0aee093ccb2ceda7f07f5"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.8.3"></script>
+<script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.7.8"></script>
+<script src="/core/misc/drupal.js?v=8.7.8"></script>
+<script src="/core/misc/drupal.init.js?v=8.7.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script>
+<script src="/core/misc/progress.js?v=8.7.8"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=8.7.8"></script>
+<script src="/core/misc/ajax.js?v=8.7.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/position-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=1.12.1"></script>
+<script src="/modules/contrib/search_autocomplete/js/jquery.autocomplete.js?v=8.7.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/tooltip-min.js?v=1.12.1"></script>
+<script src="/themes/heritage/dist/js/libs/dropdowns-ugh.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/libs/slick.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/libs/system-polyfills.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/libs/system.js?q8l34p"></script>
+<script src="/themes/heritage/js/heritage.js?q8l34p"></script>
+<script src="/themes/heritage/js/heritage-theme-behavior.js?q8l34p"></script>
+<script src="/themes/heritage/src/scripts/libs/ouical.js?q8l34p"></script>
+<script src="/themes/heritage/src/scripts/libs/jquery.masonry.js?q8l34p"></script>
+<script src="/themes/heritage/src/scripts/libs/jquery.masonry.ordered.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/components/add-to-calendar.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/components/masonry.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/libs/jquery.hypher.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/libs/en-us.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/libs/tabby.js?q8l34p"></script>
+<script src="/modules/contrib/better_exposed_filters/js/better_exposed_filters.js?v=3.x"></script>
+<script src="/modules/custom/heritage_voter_fraud_report/js/voter_fraud_search.js?v=1.x"></script>
+
+        <img src="https://ds.reson8.com/insights.gif?rand=[cache_buster]&t=0&pixt=resonate&advkey=0013000000R6OopAAF&opptykey=THEF0617C&evkey=100200825&evtype=custom" width=1 height=1 border=0>
+      </body>
+</html>
