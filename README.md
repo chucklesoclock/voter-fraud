@@ -8,4 +8,7 @@ The White House and the Trump Administration has repeatedly made claims about wi
 The Heritage Foundation, a conservative think-tank, published a database containing instances of "confirm voter fraud". They claim it is not an exhaustive list, but have used it in [justifications for the proof of bipartisan voter fraud](https://www.heritage.org/election-integrity/commentary/more-proof-voter-fraud-real-and-bipartisan). 
 * https://www.heritage.org/voterfraud
 
+Given that The White House has adopted the printed report on its website, it seems worthy of investigation and visualization to see its contents more clearly. 
+* https://www.whitehouse.gov/sites/whitehouse.gov/files/docs/pacei-voterfraudcases.pdf
+
 This repository will scrape the dataset used to produce these reports, and investigate the findings year-over-year in a Jupyter Notebook. 
