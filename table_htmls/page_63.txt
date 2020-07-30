@@ -475,7 +475,7 @@
 <div id="block-mainpagecontent">
   
     
-      <div class="views-element-container"><div class="view view-voter-fraud-information view-id-voter_fraud_information view-display-id-voter_fraud_cases_page js-view-dom-id-51a52e7a61fd0c308a007930e83989e3ddea3c8b9485fc28b3ef3085bf6f2e2f">
+      <div class="views-element-container"><div class="view view-voter-fraud-information view-id-voter_fraud_information view-display-id-voter_fraud_cases_page js-view-dom-id-8c2151523429524c2205f84ca408698f804cd99dce73e78e88938a47a8c6af55">
   <div class="table-wrapper">
     
         
@@ -485,11 +485,11 @@
 
       <a href="/voterfraud#choose-a-state" class="change-state">Change State</a>
 
-      <a href="/voterfraud-print/search?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=61" class="heritage-icon-print article__social-icon" target="_blank" title="Print"></a>
+      <a href="/voterfraud-print/search?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=62" class="heritage-icon-print article__social-icon" target="_blank" title="Print"></a>
 
       <div class="article__social-container __social-container">
-  <a href="https://twitter.com/intent/tweet?text=Election%20Fraud%20Cases&url=https%3A%2F%2Fwww.heritage.org%2Fvoterfraud%2Fsearch%3Fcase_type%3DAll%26combine%3D%26fraud_type%3DAll%26page%3D61%26state%3DAll%26year%3D&via=Heritage " class="heritage-icon-social_twitter article__social-icon" title="Share this article on Twitter" aria-label="Share this article on Twitter"></a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.heritage.org%2Fvoterfraud%2Fsearch%3Fcase_type%3DAll%26combine%3D%26fraud_type%3DAll%26page%3D61%26state%3DAll%26year%3D" class="heritage-icon-social_facebook article__social-icon" title="Share this article on Facebook" aria-label="Share this article on Facebook"></a>
+  <a href="https://twitter.com/intent/tweet?text=Election%20Fraud%20Cases&url=https%3A%2F%2Fwww.heritage.org%2Fvoterfraud%2Fsearch%3Fcase_type%3DAll%26combine%3D%26fraud_type%3DAll%26page%3D62%26state%3DAll%26year%3D&via=Heritage " class="heritage-icon-social_twitter article__social-icon" title="Share this article on Twitter" aria-label="Share this article on Twitter"></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.heritage.org%2Fvoterfraud%2Fsearch%3Fcase_type%3DAll%26combine%3D%26fraud_type%3DAll%26page%3D62%26state%3DAll%26year%3D" class="heritage-icon-social_facebook article__social-icon" title="Share this article on Facebook" aria-label="Share this article on Facebook"></a>
   <a href="#" class="heritage-icon-copy_link article__social-icon" title="Copy a link to this article" aria-label="Copy a link to this article">
   	<i class="copy-icon__confirmation">
   		<span class="heritage-icon-check_sign_up article__social-icon"></span>
@@ -566,274 +566,130 @@
 
 
     <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Minnesota</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2016</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Ashley Nicole Williams</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Ashley Nicole Williams, of Mankato, voted as an ineligible person by voting as a known felon in the 2016 general election. Williams was charged with a felony, pleaded guilty to a gross misdemeanor of knowingly voting as an ineligible voter, was sentenced to 91 days' imprisonment followed by one year of probation, and was ordered to complete 3 days of community service and pay $77 in court fees.</p>
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">West Virginia</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2020</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Tess Alayna Bishop</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Tess Bishop, of Salt Lake City, UT,voted "unlawfully and knowingly" in a Harper's Ferry municipal election where her father, Wayne Bishop, was elected mayor by a margin of 14 votes. Bishop was charged with one count of illegal voting, and pled guilty to the charge. She was sentenced to 3 days of incarceration, that could be served by completing 24 hours of community service, and ordered to pay all court fees.</p>
 </span></span>
   </div>
   <div class="extra-row" style="display:none;">
     <p class="complete-names">
-        Ashley Nicole Williams
+        Tess Alayna Bishop
+
     </p>
     <p class="outcomes">
-      <p>Ashley Nicole Williams, of Mankato, voted as an ineligible person by voting as a known felon in the 2016 general election. Williams was charged with a felony, pleaded guilty to a gross misdemeanor of knowingly voting as an ineligible voter, was sentenced to 91 days' imprisonment followed by one year of probation, and was ordered to complete 3 days of community service and pay $77 in court fees.</p>
+      <p>Tess Bishop, of Salt Lake City, UT,voted "unlawfully and knowingly" in a Harper's Ferry municipal election where her father, Wayne Bishop, was elected mayor by a margin of 14 votes. Bishop was charged with one count of illegal voting, and pled guilty to the charge. She was sentenced to 3 days of incarceration, that could be served by completing 24 hours of community service, and ordered to pay all court fees.</p>
 
     </p>
     <p class="sources">
       <span>Source: </span>
-              bit.ly/2pDRRHY, Case Number: 07-CR-17-4642          </p>
+              bit.ly/2voiHqT
+,              bit.ly/2VxoXHw          </p>
   </div>
     <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Minnesota</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2016</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Taylor Mitchel Spence</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Taylor Mitchel Spence, of Winnebago, voted as an ineligible person in the 2016 general election by voting as a known felon. Spence was charged with a felony, pleaded guilty to a gross misdemeanor of knowingly voting as an ineligible voter, was sentenced to 125 days' imprisonment, and was ordered to pay $77 in court fees.</p>
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">New Hampshire</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2019</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Robert Bell</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Duplicate Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Robert Bell, of Atkinson, voted twice in the 2018 midterm election, in Florida and New Hampshire.He was convicted by a jury of duplicate voting in more than one state, a Class B felony, and was ordered to complete 50 hours of community service and pay a $1,000 fine.</p>
 </span></span>
   </div>
   <div class="extra-row" style="display:none;">
     <p class="complete-names">
-        Taylor Mitchel Spence
+        Robert Bell
+
     </p>
     <p class="outcomes">
-      <p>Taylor Mitchel Spence, of Winnebago, voted as an ineligible person in the 2016 general election by voting as a known felon. Spence was charged with a felony, pleaded guilty to a gross misdemeanor of knowingly voting as an ineligible voter, was sentenced to 125 days' imprisonment, and was ordered to pay $77 in court fees.</p>
+      <p>Robert Bell, of Atkinson, voted twice in the 2018 midterm election, in Florida and New Hampshire.He was convicted by a jury of duplicate voting in more than one state, a Class B felony, and was ordered to complete 50 hours of community service and pay a $1,000 fine.</p>
 
     </p>
     <p class="sources">
       <span>Source: </span>
-              bit.ly/2pDRRHY, Case Number: 07-CR-17-4644          </p>
+              bit.ly/2TsqBaC
+,              bit.ly/2PvFR5m          </p>
   </div>
     <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">California</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2016</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Gustavo Araujo Lerma</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Gustavo Araujo Lerma was charged and found guilty of aggravated identity theft, making a false statement on a passport application, and five counts of voting by an illegal alien in federal elections from 2012-2016 after assuming the identity of Hiram Enrique Velez. Lerma applied for a US passport under his assumed name and obtained citizenship for his wife. Subsequently, he and his wife voted multiple times. Lerma was sentenced to three years and nine months in prison. Lerma is an outspoken supporter of President Donald Trump and supporter of the Republican Party.</p>
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">New Jersey</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2019</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Frank Raia</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Buying Votes</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Frank Raia, of Hoboken, acted illegally by attempting to bribe voters with $50 to send in mail-in ballots to support his candidacy for a seat on the Hoboken City Council and a rent-control referendum. Raia was charged with vote-buying and was found guilty following a jury trial. He was sentenced to 3 months in prison, one year of supervised released, and ordered to pay a $50,000 fine.</p>
 </span></span>
   </div>
   <div class="extra-row" style="display:none;">
     <p class="complete-names">
-        Gustavo Araujo Lerma
+        Frank Raia
+
     </p>
     <p class="outcomes">
-      <p>Gustavo Araujo Lerma was charged and found guilty of aggravated identity theft, making a false statement on a passport application, and five counts of voting by an illegal alien in federal elections from 2012-2016 after assuming the identity of Hiram Enrique Velez. Lerma applied for a US passport under his assumed name and obtained citizenship for his wife. Subsequently, he and his wife voted multiple times. Lerma was sentenced to three years and nine months in prison. Lerma is an outspoken supporter of President Donald Trump and supporter of the Republican Party.</p>
+      <p>Frank Raia, of Hoboken, acted illegally by attempting to bribe voters with $50 to send in mail-in ballots to support his candidacy for a seat on the Hoboken City Council and a rent-control referendum. Raia was charged with vote-buying and was found guilty following a jury trial. He was sentenced to 3 months in prison, one year of supervised released, and ordered to pay a $50,000 fine.</p>
 
     </p>
     <p class="sources">
       <span>Source: </span>
-              bit.ly/2LOkEC9, bit.ly/2PeH80X          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">New Hampshire</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2019</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Charles Eugene Cartier Jr</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Duplicate Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Charles Eugene Cartier Jr. knowingly voted twice in the 2016 general election. Cartier pleaded guilty to voting in more than one state, a Class B felony. After voting in Massachusetts, he then voted in his home state of New Hampshire. The was discovered after New Hampshire started participating in the Interstate Crosscheck Program, a multi-state database that compares voter information to identify who is registered in multiple states and who voted more than once. Cartier was given a suspended sentence of 60 days, fined $1,000, assessed an additional penalty of $240, and lost his right to vote in future New Hampshire elections.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Charles Eugene Cartier Jr
-    </p>
-    <p class="outcomes">
-      <p>Charles Eugene Cartier Jr. knowingly voted twice in the 2016 general election. Cartier pleaded guilty to voting in more than one state, a Class B felony. After voting in Massachusetts, he then voted in his home state of New Hampshire. The was discovered after New Hampshire started participating in the Interstate Crosscheck Program, a multi-state database that compares voter information to identify who is registered in multiple states and who voted more than once. Cartier was given a suspended sentence of 60 days, fined $1,000, assessed an additional penalty of $240, and lost his right to vote in future New Hampshire elections.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/35FVr3W          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Alabama</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2019</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Elbert Melton</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Fraudulent Use Of Absentee Ballots</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Elbert Melton, the former mayor of Gordon, illegally notarized two ballots, without witnesses present, during the 2016 election in which he was running for mayor. Melton won that race by only 16 votes. Melton was convicted on two counts of absentee ballot fraud, was removed from office, and was sentenced to serve one year in prison followed by two years of probation.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Elbert Melton
-    </p>
-    <p class="outcomes">
-      <p>Elbert Melton, the former mayor of Gordon, illegally notarized two ballots, without witnesses present, during the 2016 election in which he was running for mayor. Melton won that race by only 16 votes. Melton was convicted on two counts of absentee ballot fraud, was removed from office, and was sentenced to serve one year in prison followed by two years of probation.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              https://bitly.com/
-
-bit.ly/2SPvL2X, bit.ly/30nEY2m, bit.ly/2TPo3Dt          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Ohio</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Ana Matias</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">False Registrations</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Ana Matias, of Columbus, pled guilty to False Voter Registration in violation of Section 3599.11 of the Ohio Revised Code, a Felony in the Fifth degree. Matias was charged with three counts of false election registration and two counts of illegal voting, and pleaded guilty to false voter registration. She was sentenced to community control (probation) for two years and was ordered to pay $423 in court fees.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Ana Matias
-
-    </p>
-    <p class="outcomes">
-      <p>Ana Matias, of Columbus, pled guilty to False Voter Registration in violation of Section 3599.11 of the Ohio Revised Code, a Felony in the Fifth degree. Matias was charged with three counts of false election registration and two counts of illegal voting, and pleaded guilty to false voter registration. She was sentenced to community control (probation) for two years and was ordered to pay $423 in court fees.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/2SSi16a,              Case no. 17 CR 005017          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Ohio</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Janitha Rippey</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">False Registrations</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Janitha Rippey, of Columbus, pled guilty to False Voter Registration in violation of Section 3599.11 of the Ohio Revised Code, a Felony in the Fifth degree. Rippey was charged with one count of false election registration and one count of illegal voting, and pleaded guilty to false voter registration. She was sentenced to community control (probation) for twelve months and was ordered to pay a $250 fine.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Janitha Rippey
-
-    </p>
-    <p class="outcomes">
-      <p>Janitha Rippey, of Columbus, pled guilty to False Voter Registration in violation of Section 3599.11 of the Ohio Revised Code, a Felony in the Fifth degree. Rippey was charged with one count of false election registration and one count of illegal voting, and pleaded guilty to false voter registration. She was sentenced to community control (probation) for twelve months and was ordered to pay a $250 fine.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/2VdGHaO
-,              Case no. 17 CR 005019          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Ohio</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Kenyron O. Glasgow</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Kenyron O. Glasgow, of Columbus, pled guilty to illegal voting. Glasgow was charged with two counts of false election registration and two counts of illegal voting, and pleaded guilty to illegal voting, a fourth degree felony. He was sentenced to community control (probation) for twelve months and was ordered to pay a $200 fine and court fees.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Kenyron O. Glasgow
-
-    </p>
-    <p class="outcomes">
-      <p>Kenyron O. Glasgow, of Columbus, pled guilty to illegal voting. Glasgow was charged with two counts of false election registration and two counts of illegal voting, and pleaded guilty to illegal voting, a fourth degree felony. He was sentenced to community control (probation) for twelve months and was ordered to pay a $200 fine and court fees.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/2Vh0h5R
-,              Case no. 17 CR 005020          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Ohio</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2019</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Yaakov M. Schulman</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Yaakov M. Schulman, of Columbus, was found guilty of illegal voting. Schulman was charged with one count of false election registration and one count of illegal voting, and was found gulty of illegal voting, a fourth degree felony, by a jury. He was sentenced to community control (probation) for two years, ordered to complete cognitive behavioral programming, and was ordered to pay a $2,500 fine and $1,812 in court fees.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Yaakov M. Schulman
-
-    </p>
-    <p class="outcomes">
-      <p>Yaakov M. Schulman, of Columbus, was found guilty of illegal voting. Schulman was charged with one count of false election registration and one count of illegal voting, and was found gulty of illegal voting, a fourth degree felony, by a jury. He was sentenced to community control (probation) for two years, ordered to complete cognitive behavioral programming, and was ordered to pay a $2,500 fine and $1,812 in court fees.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/2wJ5XeQ
-,              Case no. 17 CR 005021          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Ohio</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Leslie C. Allen</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Leslie C. Allen, of Columbus, was found guilty of attempted illegal voting. Allen was charged with one count of illegal voting, and pleaded guilty to attempted illegal voting, a fifth degree felony. She was sentenced to community control (probation) for twelve months, and was ordered to pay a $1,000 fine and $168 in court fees.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Leslie C. Allen
-
-    </p>
-    <p class="outcomes">
-      <p>Leslie C. Allen, of Columbus, was found guilty of attempted illegal voting. Allen was charged with one count of illegal voting, and pleaded guilty to attempted illegal voting, a fifth degree felony. She was sentenced to community control (probation) for twelve months, and was ordered to pay a $1,000 fine and $168 in court fees.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/2vc8YE0
-,              Case no.005022          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">Ohio</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2018</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Gilbert A. Brown</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">False Registrations</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Gilbert A. Brown, of Columbus, pled guilty to False Voter Registration in violation of Section 3599.11 of the Ohio Revised Code, a Felony in the Fifth degree. Brown was charged with one count of false election registration and one count of illegal voting, and pleaded guilty to false voter registration. He was sentenced to community control (probation) for twelve months.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Gilbert A. Brown
-
-    </p>
-    <p class="outcomes">
-      <p>Gilbert A. Brown, of Columbus, pled guilty to False Voter Registration in violation of Section 3599.11 of the Ohio Revised Code, a Felony in the Fifth degree. Brown was charged with one count of false election registration and one count of illegal voting, and pleaded guilty to false voter registration. He was sentenced to community control (probation) for twelve months.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/32samhO
-,              Case no.17 CR 005023          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">California</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2020</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Jentry Jasperson</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ballot Petition Fraud</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Jentry Jasperson, of Pacifica, forged signatures for a referendum iniative and paid a $5 fee per signature. She was reported to have forged over 100 signatures, most of which were actual country residents. Peterson was charged with 10 counts of perjury by declaration, 5 counts of identity theft, and 5 counts of signing fictious or forged names to a petition. She pleaded guilty to 2 counts of perjury by declaration, a felony, and was sentenced to 2 years in county jail.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Jentry Jasperson
-
-    </p>
-    <p class="outcomes">
-      <p>Jentry Jasperson, of Pacifica, forged signatures for a referendum iniative and paid a $5 fee per signature. She was reported to have forged over 100 signatures, most of which were actual country residents. Peterson was charged with 10 counts of perjury by declaration, 5 counts of identity theft, and 5 counts of signing fictious or forged names to a petition. She pleaded guilty to 2 counts of perjury by declaration, a felony, and was sentenced to 2 years in county jail.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/38Zlvtc
-,              bit.ly/32qs5pX ,              Case no. 18-NF-002566-B          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">California</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2020</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Bradley Jasperson</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ballot Petition Fraud</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Bradley Jasperson, of Pacifica, forged signatures for a referendum initiative and was paid a $5 fee per signature. He was reported to have forged over 100 signatures, most of which were actual country residents. Peterson was charged with 10 counts of perjury by declaration, 5 counts of identity theft, and 5 counts of signing of fictious or forged name to petition. He pleaded guilty to 2 counts of perjury by declaration, a felony, and was sentenced to 2 years in county jail.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Bradley Jasperson
-
-    </p>
-    <p class="outcomes">
-      <p>Bradley Jasperson, of Pacifica, forged signatures for a referendum initiative and was paid a $5 fee per signature. He was reported to have forged over 100 signatures, most of which were actual country residents. Peterson was charged with 10 counts of perjury by declaration, 5 counts of identity theft, and 5 counts of signing of fictious or forged name to petition. He pleaded guilty to 2 counts of perjury by declaration, a felony, and was sentenced to 2 years in county jail.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/38Zlvtc 
-,              bit.ly/32qs5pX,              Case no. 18-NF-002566-A          </p>
-  </div>
-    <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">California</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2019</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Gustavo Araujo Lerma</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ineligible Voting</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Gustavo Araujo Lerma, of Sacramento, is an illegal immigrant from Mexico. After fraudulently assuming the identity of "Hiram Enrique Velez" in 1992, Lerma applied for a US passport under his assumed name and then obtained citizenship for himself and his wife. Thereafter, he and his wife fraudulently voted multiple times in elections. Lerma was charged with aggrevated identity theft, making a false statement on a passport application, and five counts of voting by an alien in federal elections, and was found guilty on all counts. He was sentenced to three years and nine months in prison.</p>
-</span></span>
-  </div>
-  <div class="extra-row" style="display:none;">
-    <p class="complete-names">
-        Gustavo Araujo Lerma
-
-    </p>
-    <p class="outcomes">
-      <p>Gustavo Araujo Lerma, of Sacramento, is an illegal immigrant from Mexico. After fraudulently assuming the identity of "Hiram Enrique Velez" in 1992, Lerma applied for a US passport under his assumed name and then obtained citizenship for himself and his wife. Thereafter, he and his wife fraudulently voted multiple times in elections. Lerma was charged with aggrevated identity theft, making a false statement on a passport application, and five counts of voting by an alien in federal elections, and was found guilty on all counts. He was sentenced to three years and nine months in prison.</p>
-
-    </p>
-    <p class="sources">
-      <span>Source: </span>
-              bit.ly/2T6Mz3W,              bit.ly/3a8enL9
+              bit.ly/32CJ2gV
           </p>
   </div>
     <div class="views-row">
-    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">North Carolina</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2019</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Ninth Congressional District of North…</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Official Finding</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Fraudulent Use Of Absentee Ballots</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 384px;" width="64"><colgroup><col style="width:48pt" width="64" /></colgroup><tbody><tr height="20" style="height:15.0pt"><td height="20" style="height: 15pt; width: 381px;" width="64">A general election for the seat in the Ninth Congressional district was decertified by North Carolina State Board of Elections after credible allegations of absentee ballot abuse arose. Officials became suspicious when 61% of the vote-by-mail ballots were cast for the Republican candidate, despite the fact that only 16% of the mail-by-ballot were registered Republicans. Multiple people, including the Republican candidate's son, expressed their suspicions that a political contractor illegally organized the collection of absentee ballots and completed empty mail-in ballots. The Board of Elections ordered a new election to fill the seat and the contractor was subsequently indicted.</td>
-		</tr></tbody></table></span></span>
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">New Mexico</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2020</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Dyon Herrera</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Fraudulent Use Of Absentee Ballots</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Dyon Hererra, of Espanola, conspired with Laura Seeds to falsify absentee ballots in support of Seeds' husband's candidacy for mayor in 2016. Hererra forged the signatures of his grandparents on absentee ballots. The candidate that he casted the ballots in favor of won the race by two votes. Herrera was charged with conspiracy to violate the municipal election code of Espanola, a fourth degree felony, and pleaded guilty. He was sentenced to 18 months probation.</p>
+</span></span>
   </div>
   <div class="extra-row" style="display:none;">
     <p class="complete-names">
-        NC-09
+        Dyon Herrera
 
     </p>
     <p class="outcomes">
-      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 384px;" width="64">
-	<colgroup>
-		<col style="width:48pt" width="64" />
-	</colgroup>
-	<tbody>
-		<tr height="20" style="height:15.0pt">
-			<td height="20" style="height: 15pt; width: 381px;" width="64">A general election for the seat in the Ninth Congressional district was decertified by North Carolina State Board of Elections after credible allegations of absentee ballot abuse arose. Officials became suspicious when 61% of the vote-by-mail ballots were cast for the Republican candidate, despite the fact that only 16% of the mail-by-ballot were registered Republicans. Multiple people, including the Republican candidate's son, expressed their suspicions that a political contractor illegally organized the collection of absentee ballots and completed empty mail-in ballots. The Board of Elections ordered a new election to fill the seat and the contractor was subsequently indicted.</td>
-		</tr>
-	</tbody>
-</table>
+      <p>Dyon Hererra, of Espanola, conspired with Laura Seeds to falsify absentee ballots in support of Seeds' husband's candidacy for mayor in 2016. Hererra forged the signatures of his grandparents on absentee ballots. The candidate that he casted the ballots in favor of won the race by two votes. Herrera was charged with conspiracy to violate the municipal election code of Espanola, a fourth degree felony, and pleaded guilty. He was sentenced to 18 months probation.</p>
 
     </p>
     <p class="sources">
       <span>Source: </span>
-              nyti.ms/3chkRZS
+              bit.ly/2vrkETH 
+,              bit.ly/39jnN6p,              Case no. D-117-CR-201800047          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">New Mexico</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2020</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Laura Seeds</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Fraudulent Use Of Absentee Ballots</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Laura Seeds, of Espanola, conspired with Dyon Herrera to falsify several absentee ballots in favor of Seeds' husband, a city councilman who was running for mayor in 2016. Seeds was charged with two counts of making false statements relative to the municipal election code, one count of conspiracy to violate the municipal election code, and ten counts of possession of another person's absentee ballot. Seeds was found guilty of two counts of making false statements relative to the municipal election code and two counts of possession of another person's absentee ballot, which are all fourth degree felonies. She was sentenced to six months of house arrest, followed by five years of supervised probation.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Laura Seeds
+
+    </p>
+    <p class="outcomes">
+      <p>Laura Seeds, of Espanola, conspired with Dyon Herrera to falsify several absentee ballots in favor of Seeds' husband, a city councilman who was running for mayor in 2016. Seeds was charged with two counts of making false statements relative to the municipal election code, one count of conspiracy to violate the municipal election code, and ten counts of possession of another person's absentee ballot. Seeds was found guilty of two counts of making false statements relative to the municipal election code and two counts of possession of another person's absentee ballot, which are all fourth degree felonies. She was sentenced to six months of house arrest, followed by five years of supervised probation.</p>
+
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/2VC4Sjo ,              bit.ly/3csaC5f,              Case no. D-117-CR-201800048
           </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">California</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2020</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Norman Hall</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">Ballot Petition Fraud</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Norman Hall, of Los Angeles, participated in scheme to give homeless people on Skid Row cash and cigarettes in exchange for fraudulently signing ballot petition initiatives and filling out voter registration forms. These crimes took place during both the 2016 and 2018 election cycles. Hall was charged with circulating a petition with false names, and pleaded guilty. He was sentenced to 1 year in county jail, 3 years of probation, and was ordered to complete 100 hours of community service.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Norman Hall
+
+    </p>
+    <p class="outcomes">
+      <p>Norman Hall, of Los Angeles, participated in scheme to give homeless people on Skid Row cash and cigarettes in exchange for fraudulently signing ballot petition initiatives and filling out voter registration forms. These crimes took place during both the 2016 and 2018 election cycles. Hall was charged with circulating a petition with false names, and pleaded guilty. He was sentenced to 1 year in county jail, 3 years of probation, and was ordered to complete 100 hours of community service.</p>
+
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              nbcnews.to/38eXj4M
+,              bit.ly/2VFtk3f          </p>
+  </div>
+    <div class="views-row">
+    <span class="views-field views-field-field-fraud-state-administrative-area"><span class="views-label views-label-field-fraud-state-administrative-area">State</span><span class="field-content">California</span></span><span class="views-field views-field-field-year-of-disposition"><span class="views-label views-label-field-year-of-disposition">Year</span><span class="field-content">2019</span></span><span class="views-field views-field-name"><span class="views-label views-label-name">Name</span><span class="field-content">Richard Davis</span></span><span class="views-field views-field-field-case-type"><span class="views-label views-label-field-case-type">Case Type</span><span class="field-content">Criminal Conviction</span></span><span class="views-field views-field-field-fraud-type"><span class="views-label views-label-field-fraud-type">Fraud Type</span><span class="field-content">False Registrations</span></span><span class="views-field views-field-field-outcome-of-case"><span class="views-label views-label-field-outcome-of-case">Details</span><span class="field-content"><p>Richard Davis, of Pacific Grove, registered four dogs (Pfeiffer, Chantarelle, Rocky, and Cooper) and his deceased father to vote between 2013 and 2018. Davis was charged with voter registration fraud. He pled guilty and was sentenced to three years of probation and 48 hours of community service.</p>
+</span></span>
+  </div>
+  <div class="extra-row" style="display:none;">
+    <p class="complete-names">
+        Richard Davis
+
+    </p>
+    <p class="outcomes">
+      <p>Richard Davis, of Pacific Grove, registered four dogs (Pfeiffer, Chantarelle, Rocky, and Cooper) and his deceased father to vote between 2013 and 2018. Davis was charged with voter registration fraud. He pled guilty and was sentenced to three years of probation and 48 hours of community service.</p>
+
+    </p>
+    <p class="sources">
+      <span>Source: </span>
+              bit.ly/3cClDB8
+,              bit.ly/32NCo7Q          </p>
   </div>
 
       </div>
@@ -848,7 +704,7 @@ bit.ly/2SPvL2X, bit.ly/30nEY2m, bit.ly/2TPo3Dt          </p>
           </a>
         </li>
                           <li class="pager__item pager__item--previous">
-          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=60" title="Go to previous page" rel="prev">
+          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=61" title="Go to previous page" rel="prev">
             <span class="visually-hidden">Previous page</span>
             <span aria-hidden="true">Previous</span>
           </a>
@@ -896,37 +752,25 @@ bit.ly/2SPvL2X, bit.ly/30nEY2m, bit.ly/2TPo3Dt          </p>
               Page
             </span>61</a>
         </li>
-              <li class="pager__item is-active">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=61" title="Current page">
-            <span class="visually-hidden">
-              Current page
-            </span>62</a>
-        </li>
               <li class="pager__item">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=62" title="Go to page 63">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=61" title="Go to page 62">
             <span class="visually-hidden">
               Page
+            </span>62</a>
+        </li>
+              <li class="pager__item is-active">
+                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=62" title="Current page">
+            <span class="visually-hidden">
+              Current page
             </span>63</a>
         </li>
-                                      <li class="pager__item pager__item--next">
-          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=62" title="Go to next page" rel="next">
-            <span class="visually-hidden">Next page</span>
-            <span aria-hidden="true">Next</span>
-          </a>
-        </li>
-                          <li class="pager__item pager__item--last">
-          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=62" title="Go to last page">
-            <span class="visually-hidden">Last page</span>
-            <span aria-hidden="true">Last</span>
-          </a>
-        </li>
-          </ul>
+                                              </ul>
   </nav>
 
               </div>
       <div class="view-footer-wrapper">
       <div class="view-footer" id="key">
-        <h3>Key &amp; Definitions</h3><h4>Types of Cases</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_1 js-view-dom-id-67bf1de49081c0425eae82c18b457c42a03df38ed65e21cb707b8cb0fe9c4588">
+        <h3>Key &amp; Definitions</h3><h4>Types of Cases</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_1 js-view-dom-id-98f5c4db66c8fda185333cd0dd7b5c92a80b4d8dbc7abcf08ff3692f097a627e">
   
     
       
@@ -944,7 +788,7 @@ bit.ly/2SPvL2X, bit.ly/30nEY2m, bit.ly/2TPo3Dt          </p>
 
     </div>
   
-          </div><h4>Types of Voter Fraud</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_2 js-view-dom-id-43a0f093bf757978141aad715378754914488f805c064a3e5c4542ec099f0810">
+          </div><h4>Types of Voter Fraud</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_2 js-view-dom-id-0ab21f991e04f62a7d0beeff9457a4427a7fb152ee57135aba1f0764547026c2">
   
     
       
@@ -1075,7 +919,7 @@ bit.ly/2SPvL2X, bit.ly/30nEY2m, bit.ly/2TPo3Dt          </p>
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"voterfraud\/search","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"case_type":"All","combine":"","fraud_type":"All","page":"61","state":"All","year":""}},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"better_exposed_filters\/general,core\/drupal.autocomplete,core\/html5shiv,heritage_theme\/global,heritage_voter_fraud_report\/voter_fraud_search,search_autocomplete\/theme.minimal.css,system\/base,views\/views.module","theme":"heritage_theme","theme_token":null},"ajaxTrustedUrl":{"\/voterfraud\/search":true},"search_autocomplete":{"search_landing_page":{"source":"https:\/\/www.heritage.org\/callback\/nodes","selector":"input#edit-contains","minChars":3,"maxSuggestions":10,"autoSubmit":true,"autoRedirect":true,"theme":"minimal","filters":["title"],"noResult":{"group":{"group_id":"no_results"},"label":"No results found for [search-phrase]. Click to perform full search.","value":"[search-phrase]"},"moreResults":{"group":{"group_id":"more_results"},"label":"View all results for [search-phrase].","value":"[search-phrase]"}}},"user":{"uid":0,"permissionsHash":"e470532ebc8b9e370723ada3fe0de71972b88aa74ab0aee093ccb2ceda7f07f5"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"voterfraud\/search","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"case_type":"All","combine":"","fraud_type":"All","page":"62","state":"All","year":""}},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"better_exposed_filters\/general,core\/drupal.autocomplete,core\/html5shiv,heritage_theme\/global,heritage_voter_fraud_report\/voter_fraud_search,search_autocomplete\/theme.minimal.css,system\/base,views\/views.module","theme":"heritage_theme","theme_token":null},"ajaxTrustedUrl":{"\/voterfraud\/search":true},"search_autocomplete":{"search_landing_page":{"source":"https:\/\/www.heritage.org\/callback\/nodes","selector":"input#edit-contains","minChars":3,"maxSuggestions":10,"autoSubmit":true,"autoRedirect":true,"theme":"minimal","filters":["title"],"noResult":{"group":{"group_id":"no_results"},"label":"No results found for [search-phrase]. Click to perform full search.","value":"[search-phrase]"},"moreResults":{"group":{"group_id":"more_results"},"label":"View all results for [search-phrase].","value":"[search-phrase]"}}},"user":{"uid":0,"permissionsHash":"e470532ebc8b9e370723ada3fe0de71972b88aa74ab0aee093ccb2ceda7f07f5"}}</script>
 <script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
 <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
 <script src="/core/assets/vendor/underscore/underscore-min.js?v=1.8.3"></script>

@@ -26,37 +26,37 @@
 <meta name="robots" content="NOODP,NOYDIR" />
 
     <title>Election Fraud Cases | The Heritage Foundation</title>
-    <link rel="stylesheet" media="all" href="/modules/contrib/search_autocomplete/css/themes/minimal.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/tooltip.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/themes/heritage/dist/css/main.css?q8l34p" />
+    <link rel="stylesheet" media="all" href="/modules/contrib/search_autocomplete/css/themes/minimal.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/tooltip.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/themes/heritage/dist/css/main.css?q8qwt9" />
 
     
 <!--[if lte IE 8]>
@@ -313,7 +313,7 @@
     <div class="views-element-container" id="block-views-block-explore-issues-grid">
   
     
-      <div><div class="view view-explore-issues view-id-explore_issues view-display-id-grid js-view-dom-id-72fb2beaa310ba33b3df14c9a3755699f72cba125c5e5c1fdf31c7469aee51d9">
+      <div><div class="view view-explore-issues view-id-explore_issues view-display-id-grid js-view-dom-id-307f6a2adefeaec7dd6af084b0b436b3b49f9281b5aa83b69b5a6c47213ca640">
   
     
       
@@ -475,7 +475,7 @@
 <div id="block-mainpagecontent">
   
     
-      <div class="views-element-container"><div class="view view-voter-fraud-information view-id-voter_fraud_information view-display-id-voter_fraud_cases_page js-view-dom-id-e115d1add3a6856b6364c9c6638ae5ba66c2457d29e9ce23689ef240aec2680f">
+      <div class="views-element-container"><div class="view view-voter-fraud-information view-id-voter_fraud_information view-display-id-voter_fraud_cases_page js-view-dom-id-e56b16f0629a77d5d3ab88d91b74fc811eb038defdd15a3e1500d2766ddb6e71">
   <div class="table-wrapper">
     
         
@@ -485,7 +485,7 @@
 
       <a href="/voterfraud#choose-a-state" class="change-state">Change State</a>
 
-      <a href="/voterfraud-print/search?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=56" class="heritage-icon-print article__social-icon" target="_blank" title="Print"></a>
+      <a href="/voterfraud-print/search?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=56" class="heritage-icon-print article__social-icon" target="_blank" title="Print"></a>
 
       <div class="article__social-container __social-container">
   <a href="https://twitter.com/intent/tweet?text=Election%20Fraud%20Cases&url=https%3A%2F%2Fwww.heritage.org%2Fvoterfraud%2Fsearch%3Fcase_type%3DAll%26combine%3D%26fraud_type%3DAll%26page%3D56%26state%3DAll%26year%3D&via=Heritage " class="heritage-icon-social_twitter article__social-icon" title="Share this article on Twitter" aria-label="Share this article on Twitter"></a>
@@ -797,81 +797,81 @@
     <h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
     <ul class="pager__items js-pager__items">
                     <li class="pager__item pager__item--first">
-          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=0" title="Go to first page">
+          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=0" title="Go to first page">
             <span class="visually-hidden">First page</span>
             <span aria-hidden="true">First</span>
           </a>
         </li>
                           <li class="pager__item pager__item--previous">
-          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=55" title="Go to previous page" rel="prev">
+          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=55" title="Go to previous page" rel="prev">
             <span class="visually-hidden">Previous page</span>
             <span aria-hidden="true">Previous</span>
           </a>
         </li>
                           <li class="pager__item pager__item--ellipsis" role="presentation">&hellip;</li>
                           <li class="pager__item">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=52" title="Go to page 53">
+                                          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=52" title="Go to page 53">
             <span class="visually-hidden">
               Page
             </span>53</a>
         </li>
               <li class="pager__item">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=53" title="Go to page 54">
+                                          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=53" title="Go to page 54">
             <span class="visually-hidden">
               Page
             </span>54</a>
         </li>
               <li class="pager__item">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=54" title="Go to page 55">
+                                          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=54" title="Go to page 55">
             <span class="visually-hidden">
               Page
             </span>55</a>
         </li>
               <li class="pager__item">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=55" title="Go to page 56">
+                                          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=55" title="Go to page 56">
             <span class="visually-hidden">
               Page
             </span>56</a>
         </li>
               <li class="pager__item is-active">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=56" title="Current page">
+                                          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=56" title="Current page">
             <span class="visually-hidden">
               Current page
             </span>57</a>
         </li>
               <li class="pager__item">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=57" title="Go to page 58">
+                                          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=57" title="Go to page 58">
             <span class="visually-hidden">
               Page
             </span>58</a>
         </li>
               <li class="pager__item">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=58" title="Go to page 59">
+                                          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=58" title="Go to page 59">
             <span class="visually-hidden">
               Page
             </span>59</a>
         </li>
               <li class="pager__item">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=59" title="Go to page 60">
+                                          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=59" title="Go to page 60">
             <span class="visually-hidden">
               Page
             </span>60</a>
         </li>
               <li class="pager__item">
-                                          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=60" title="Go to page 61">
+                                          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=60" title="Go to page 61">
             <span class="visually-hidden">
               Page
             </span>61</a>
         </li>
                           <li class="pager__item pager__item--ellipsis" role="presentation">&hellip;</li>
                           <li class="pager__item pager__item--next">
-          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=57" title="Go to next page" rel="next">
+          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=57" title="Go to next page" rel="next">
             <span class="visually-hidden">Next page</span>
             <span aria-hidden="true">Next</span>
           </a>
         </li>
                           <li class="pager__item pager__item--last">
-          <a href="?combine=&amp;state=All&amp;year=&amp;case_type=All&amp;fraud_type=All&amp;page=62" title="Go to last page">
+          <a href="?case_type=All&amp;combine=&amp;fraud_type=All&amp;state=All&amp;year=&amp;page=62" title="Go to last page">
             <span class="visually-hidden">Last page</span>
             <span aria-hidden="true">Last</span>
           </a>
@@ -882,7 +882,7 @@
               </div>
       <div class="view-footer-wrapper">
       <div class="view-footer" id="key">
-        <h3>Key &amp; Definitions</h3><h4>Types of Cases</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_1 js-view-dom-id-639c12a19597c5e9c5476d0cb67fc6ddc3c7b8f5e5336d31752e274868d64ee3">
+        <h3>Key &amp; Definitions</h3><h4>Types of Cases</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_1 js-view-dom-id-5c6ba069683b73292ccadc382f9f0fcff6f622d5d0d883de85670945b0b5bcc5">
   
     
       
@@ -900,7 +900,7 @@
 
     </div>
   
-          </div><h4>Types of Voter Fraud</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_2 js-view-dom-id-1c945f1cc842995c489d8c6562628667ca6ee8098668febb0865f0c20da0b4d1">
+          </div><h4>Types of Voter Fraud</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_2 js-view-dom-id-17b8518882b492b1b6b25fb7ee0fea55993ac67b5247139306def2ccef149c35">
   
     
       
@@ -1064,20 +1064,20 @@
 <script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=1.12.1"></script>
 <script src="/modules/contrib/search_autocomplete/js/jquery.autocomplete.js?v=8.7.8"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/widgets/tooltip-min.js?v=1.12.1"></script>
-<script src="/themes/heritage/dist/js/libs/dropdowns-ugh.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/slick.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/system-polyfills.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/system.js?q8l34p"></script>
-<script src="/themes/heritage/js/heritage.js?q8l34p"></script>
-<script src="/themes/heritage/js/heritage-theme-behavior.js?q8l34p"></script>
-<script src="/themes/heritage/src/scripts/libs/ouical.js?q8l34p"></script>
-<script src="/themes/heritage/src/scripts/libs/jquery.masonry.js?q8l34p"></script>
-<script src="/themes/heritage/src/scripts/libs/jquery.masonry.ordered.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/components/add-to-calendar.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/components/masonry.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/jquery.hypher.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/en-us.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/tabby.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/libs/dropdowns-ugh.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/slick.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/system-polyfills.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/system.js?q8qwt9"></script>
+<script src="/themes/heritage/js/heritage.js?q8qwt9"></script>
+<script src="/themes/heritage/js/heritage-theme-behavior.js?q8qwt9"></script>
+<script src="/themes/heritage/src/scripts/libs/ouical.js?q8qwt9"></script>
+<script src="/themes/heritage/src/scripts/libs/jquery.masonry.js?q8qwt9"></script>
+<script src="/themes/heritage/src/scripts/libs/jquery.masonry.ordered.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/components/add-to-calendar.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/components/masonry.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/jquery.hypher.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/en-us.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/tabby.js?q8qwt9"></script>
 <script src="/modules/contrib/better_exposed_filters/js/better_exposed_filters.js?v=3.x"></script>
 <script src="/modules/custom/heritage_voter_fraud_report/js/voter_fraud_search.js?v=1.x"></script>
 

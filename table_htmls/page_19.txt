@@ -26,37 +26,37 @@
 <meta name="robots" content="NOODP,NOYDIR" />
 
     <title>Election Fraud Cases | The Heritage Foundation</title>
-    <link rel="stylesheet" media="all" href="/modules/contrib/search_autocomplete/css/themes/minimal.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/tooltip.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?q8l34p" />
-<link rel="stylesheet" media="all" href="/themes/heritage/dist/css/main.css?q8l34p" />
+    <link rel="stylesheet" media="all" href="/modules/contrib/search_autocomplete/css/themes/minimal.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/tooltip.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?q8qwt9" />
+<link rel="stylesheet" media="all" href="/themes/heritage/dist/css/main.css?q8qwt9" />
 
     
 <!--[if lte IE 8]>
@@ -313,7 +313,7 @@
     <div class="views-element-container" id="block-views-block-explore-issues-grid">
   
     
-      <div><div class="view view-explore-issues view-id-explore_issues view-display-id-grid js-view-dom-id-72fb2beaa310ba33b3df14c9a3755699f72cba125c5e5c1fdf31c7469aee51d9">
+      <div><div class="view view-explore-issues view-id-explore_issues view-display-id-grid js-view-dom-id-307f6a2adefeaec7dd6af084b0b436b3b49f9281b5aa83b69b5a6c47213ca640">
   
     
       
@@ -475,7 +475,7 @@
 <div id="block-mainpagecontent">
   
     
-      <div class="views-element-container"><div class="view view-voter-fraud-information view-id-voter_fraud_information view-display-id-voter_fraud_cases_page js-view-dom-id-04876cd41507f5e395d6804cfdaee95b59617ce334d5656e0ee56ae2d3073904">
+      <div class="views-element-container"><div class="view view-voter-fraud-information view-id-voter_fraud_information view-display-id-voter_fraud_cases_page js-view-dom-id-b6bad12f949e6f3b8ee59ef90ada895f497855461f0e4bd1a392370463376bf2">
   <div class="table-wrapper">
     
         
@@ -882,7 +882,7 @@
               </div>
       <div class="view-footer-wrapper">
       <div class="view-footer" id="key">
-        <h3>Key &amp; Definitions</h3><h4>Types of Cases</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_1 js-view-dom-id-e5f224bcadff509155966ca52eac3a751c25418fd9c7a874c3871cfc3fd6da64">
+        <h3>Key &amp; Definitions</h3><h4>Types of Cases</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_1 js-view-dom-id-c65ed07be8faccaded9ab239707d016fb8e23973430e68cb9bc09c72e21234ed">
   
     
       
@@ -900,7 +900,7 @@
 
     </div>
   
-          </div><h4>Types of Voter Fraud</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_2 js-view-dom-id-8c064417cef33b64ae75cd97662afd5fc088ce52eef381829e0e82a1f1568c6a">
+          </div><h4>Types of Voter Fraud</h4><div class="view view-voter-fraud-case-types view-id-voter_fraud_case_types view-display-id-block_2 js-view-dom-id-743f8c3474b985e7302b3c92522986263c0340bfc43824cb7393ffa566d91581">
   
     
       
@@ -1064,20 +1064,20 @@
 <script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=1.12.1"></script>
 <script src="/modules/contrib/search_autocomplete/js/jquery.autocomplete.js?v=8.7.8"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/widgets/tooltip-min.js?v=1.12.1"></script>
-<script src="/themes/heritage/dist/js/libs/dropdowns-ugh.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/slick.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/system-polyfills.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/system.js?q8l34p"></script>
-<script src="/themes/heritage/js/heritage.js?q8l34p"></script>
-<script src="/themes/heritage/js/heritage-theme-behavior.js?q8l34p"></script>
-<script src="/themes/heritage/src/scripts/libs/ouical.js?q8l34p"></script>
-<script src="/themes/heritage/src/scripts/libs/jquery.masonry.js?q8l34p"></script>
-<script src="/themes/heritage/src/scripts/libs/jquery.masonry.ordered.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/components/add-to-calendar.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/components/masonry.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/jquery.hypher.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/en-us.js?q8l34p"></script>
-<script src="/themes/heritage/dist/js/libs/tabby.js?q8l34p"></script>
+<script src="/themes/heritage/dist/js/libs/dropdowns-ugh.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/slick.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/system-polyfills.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/system.js?q8qwt9"></script>
+<script src="/themes/heritage/js/heritage.js?q8qwt9"></script>
+<script src="/themes/heritage/js/heritage-theme-behavior.js?q8qwt9"></script>
+<script src="/themes/heritage/src/scripts/libs/ouical.js?q8qwt9"></script>
+<script src="/themes/heritage/src/scripts/libs/jquery.masonry.js?q8qwt9"></script>
+<script src="/themes/heritage/src/scripts/libs/jquery.masonry.ordered.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/components/add-to-calendar.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/components/masonry.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/jquery.hypher.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/en-us.js?q8qwt9"></script>
+<script src="/themes/heritage/dist/js/libs/tabby.js?q8qwt9"></script>
 <script src="/modules/contrib/better_exposed_filters/js/better_exposed_filters.js?v=3.x"></script>
 <script src="/modules/custom/heritage_voter_fraud_report/js/voter_fraud_search.js?v=1.x"></script>
 
